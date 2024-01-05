@@ -11,7 +11,7 @@ import TableImage from "./assets/images/icons/table.png";
 import KanbanImage from "./assets/images/icons/kanban.png";
 import HomeImage from "./assets/images/icons/home.png";
 import SigninImage from "./assets/images/icons/signin.png";
-import ProfileImage from "./assets/images/icons/user.png";
+import ProfileImage from "./assets/images/icons/profile.png";
 
 interface Route {
   type: string;
